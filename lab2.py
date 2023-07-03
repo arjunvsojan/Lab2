@@ -6,3 +6,7 @@ def print_arguments():
     print("Script name and arguments:", script_name, arguments)
 #function call
 print_arguments()
+def helloWorld():
+	print("Hello World")
+
+helloWorld()
